@@ -1,4 +1,4 @@
-# Hugo_Canales_Portfolio
+# Hugo Canales Portfolio
 Computer Science Portfolio
 
 # Project 1
